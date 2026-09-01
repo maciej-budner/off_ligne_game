@@ -2,4 +2,5 @@
 
 ## les echecs
 
-<img src="image/diagramDeClassEchec.jpg" alt="Main menu du jeu" width="300" height="200">
+<img src="image/diagramDeClassEchec.jpg" alt="Main menu du jeu" width="900" height="600">
+<img src="image/diagramDeClassDeminer.jpg" alt="Main menu du jeu" width="900" height="600">

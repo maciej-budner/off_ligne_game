@@ -12,7 +12,7 @@ application de plein de mini jeux que l'on peut jouer hors connection internet. 
 <img src="image/yalta1%20(4).jpg" alt="visuel du jeux apres une victoire" width="300" height="200">
 
 
-## future amélioration
+### future amélioration
 - Rajouter un bouton qui explique les regle du jeux
 
 - rajouter plusieur langue sur les textes selon la langue par default de notre téléphone
@@ -33,7 +33,7 @@ application de plein de mini jeux que l'on peut jouer hors connection internet. 
 
 <img src="image/echec%20(4).jpg" alt="visuel du jeux apres une victoire" width="300" height="200">
 
-## future amélioration
+### future amélioration
 - Rajouter un bouton qui explique les regle du jeux
 
 - rajouter plusieur langue sur les textes selon la langue par default de notre téléphone
@@ -42,3 +42,22 @@ application de plein de mini jeux que l'on peut jouer hors connection internet. 
 
 - quand une IA perd elle joue toujour et peut la faire gagner
 
+## mini Jeux Deminer
+
+<img src="image/deminer%20(2).jpg" alt="visuel du plateau de jeux debut" width="300" height="200">
+
+<img src="image/deminer%20(3).jpg" alt="visuel du plateau de jeux commencer" width="300" height="200">
+
+<img src="image/deminer%20(4).jpg" alt="visuel du jeux apres une victoire" width="300" height="200">
+
+<img src="image/deminer%20(1).jpg" alt="visuel du jeux apres une defaite" width="300" height="200">
+
+### future amélioration
+
+- Rajouter un timer
+
+- centrer les cases
+
+- Posibiliter de choisir la taille du plateau (dificulter pour adapter sur tout les telephone)
+
+- rajouter des modes dans le jeux avec des points de vie ou autre
