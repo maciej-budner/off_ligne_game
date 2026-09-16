@@ -70,7 +70,6 @@ application de plein de mini jeux que l'on peut jouer hors connection internet. 
 
 - View adapter a tout les téléphone
 
-- Reflexion pour respecter le SOLID et pourvoir ajouter des usines sans changer le code pour afficher l'usine
 
 ### future amélioration
 
