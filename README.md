@@ -11,6 +11,12 @@ application de plein de mini jeux que l'on peut jouer hors connection internet. 
 
 <img src="image/yalta1%20(4).jpg" alt="visuel du jeux apres une victoire" width="300" height="200">
 
+### Dificulter
+- Utilisation du Thread sans que sa face tout ramer
+
+- Logique des mouvement des pions
+
+- View adapter au télephone 
 
 ### future amélioration
 - Rajouter un bouton qui explique les regle du jeux
@@ -33,6 +39,13 @@ application de plein de mini jeux que l'on peut jouer hors connection internet. 
 
 <img src="image/echec%20(4).jpg" alt="visuel du jeux apres une victoire" width="300" height="200">
 
+### Dificulter
+- Utilisation du Thread sans que sa face tout ramer
+
+- Logique des mouvement des pions
+
+- View adapter au télephone 
+
 ### future amélioration
 - Rajouter un bouton qui explique les regle du jeux
 
@@ -52,6 +65,13 @@ application de plein de mini jeux que l'on peut jouer hors connection internet. 
 
 <img src="image/deminer%20(1).jpg" alt="visuel du jeux apres une defaite" width="300" height="200">
 
+### Dificulter
+- refactore sur la view des base lors d'un appuis sur une case avec 0 bombe autour
+
+- View adapter a tout les téléphone
+
+- Reflexion pour respecter le SOLID et pourvoir ajouter des usines sans changer le code pour afficher l'usine
+
 ### future amélioration
 
 - Rajouter un timer
@@ -61,3 +81,29 @@ application de plein de mini jeux que l'on peut jouer hors connection internet. 
 - Posibiliter de choisir la taille du plateau (dificulter pour adapter sur tout les telephone)
 
 - rajouter des modes dans le jeux avec des points de vie ou autre
+
+## mini Jeux Clicker
+
+
+<img src="image/clicker%20(1).jpg" alt="visuel du jeux apres une defaite" width="300" height="200">
+
+<img src="image/clicker%20(2).jpg" alt="visuel du plateau de jeux debut" width="300" height="200">
+
+<img src="image/clicker%20(3).jpg" alt="visuel du plateau de jeux commencer" width="300" height="200">
+
+<img src="image/clicker%20(4).jpg" alt="visuel du jeux apres une victoire" width="300" height="200">
+
+<img src="image/clicker%20(5).jpg" alt="visuel du jeux apres une defaite" width="300" height="200">
+
+### Dificulter
+- RecyclerView a aprendre et comprendre comment faire fonctionner les bouton
+
+- uttilisation du Thread sur android studio
+
+### future amélioration
+
+- Un reset qui donne un bonus
+
+- Refléchir a comment griser les bouton qui ne peuvent pas etre acheter a l'instant T
+
+- Permetre une sauvegarde de la progression
